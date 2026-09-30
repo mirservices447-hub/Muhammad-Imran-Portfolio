@@ -101,9 +101,12 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
 - **Global Metals Intelligence** — https://globalmetalsintelligence.com
 - **Six Sigma Consult** — https://sixsigmaconsult.com
 - **LOGIX Project Management** — https://logixengineeringconsultants.com
+-  **Smashre - Digital platform and web experience developed to support a modern online business presence.** — https://www.smashre.com
+-**Smashre CRM - Business management platform focused on organizing customer and operational workflows in one place.** — https://www.crm.smashre.com
+  
 - Additional architecture/consultancy websites and ongoing website-maintenance projects.
 
----
+---Smashre
 
 # Education & Certifications
 
