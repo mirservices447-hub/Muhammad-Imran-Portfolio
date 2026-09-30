@@ -103,6 +103,7 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
 - **LOGIX Project Management** — https://logixengineeringconsultants.com
 -  **Smashre - Digital platform and web experience developed to support a modern online business presence.** — https://www.smashre.com
 -**Smashre CRM - Business management platform focused on organizing customer and operational workflows in one place.** — https://www.crm.smashre.com
+-**Nexora Solutions brings together AI, automation, software development, data, digital growth and technology consulting under one focused approach..** — //https://nexora.smashre.com/ 
   
 - Additional architecture/consultancy websites and ongoing website-maintenance projects.
 
