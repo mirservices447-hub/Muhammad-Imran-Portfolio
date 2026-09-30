@@ -1,4 +1,4 @@
-# Muhammad Imran — IT Systems, Web Development & Digital Product Delivery
+# Muhammad Imran — IT Systems |FULL-STACK WEB DEVELOPER | REACT | NEXT.JS | SUPABASE | POSTGRESQL | WORDPRESS
 
 **Karachi, Pakistan** · **+92 301 3382895** · **imranhk76@gmail.com**  
 **Production Project:** https://globalmetalsintelligence.com
@@ -106,7 +106,7 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
   
 - Additional architecture/consultancy websites and ongoing website-maintenance projects.
 
----Smashre
+---
 
 # Education & Certifications
 
