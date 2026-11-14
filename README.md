@@ -100,10 +100,26 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
 
 ## Featured AI & WordPress Plugin Development
 
-- **[Smashre AI — WordPress AI Agents & SaaS Product Ecosystem](https://ai.smashre.com/)** — Central product hub for AI-powered WordPress plugins, website assistants, business automation and upcoming SaaS solutions. This is a multi-product initiative, not a single-plugin website.
+- **[Smashre AI — WordPress AI Agents & SaaS Product Ecosystem](https://ai.smashre.com/products)** — Central product hub for AI-powered WordPress plugins, website assistants, business automation and upcoming SaaS solutions. This is a multi-product initiative, not a single-plugin website.
 - **Nexora AI — WordPress AI Agent (Existing development project)** — AI assistant for answering website visitors' questions using business-specific knowledge; WordPress plugin integration, agent configuration, SaaS backend, API connectivity, security and deployment workflows. Plugin release/testing work has taken place. Paddle checkout, licensing and subscription provisioning require further production verification.
 - **AI Real Estate by Smashre (Architecture / development planning)** — NEXORA AI real-estate transaction platform concept for Pakistan, UAE and USA, with planned WordPress integration, property workflows, transaction management and secure SaaS services. Initial repository structure exists; not launched.
 - **AI Sales Agent by Smashre (MVP planning)** — AI sales and lead-handling platform targeting businesses across industries. Android and web first, with a planned API/backend, business knowledge, inquiry handling, lead qualification and follow-up workflows; not launched.
+
+
+### Additional WordPress AI Plugins — Coming Soon (as shown on Smashre AI products page)
+
+- **AI Content Writer** — AI-assisted WordPress posts and pages.
+- **AI Image Generator** — On-brand image creation within WordPress.
+- **AI SEO Booster** — AI recommendations for on-page SEO.
+- **AI WooCommerce Assistant** — AI assistance for WooCommerce stores.
+
+### Additional AI Agents — Coming Soon
+
+- **AI Support Agent** — Customer-query resolution workflows.
+- **AI Sales Agent** — Lead qualification and meeting booking; broader Android/web MVP also under planning.
+- **AI Booking Agent** — Appointment scheduling through chat.
+
+The product page currently labels **Nexora AI Agent as Live** and the other products above as **Coming soon**. These labels describe the published catalog, not independent verification of production readiness.
 
 ## Websites & Other Digital Products
 
