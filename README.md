@@ -98,14 +98,24 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
 
 # Selected Web & Digital Work
 
-- **Global Metals Intelligence** — https://globalmetalsintelligence.com
-- **Six Sigma Consult** — https://sixsigmaconsult.com
-- **LOGIX Project Management** — https://logixengineeringconsultants.com
--  **Smashre - Digital platform and web experience developed to support a modern online business presence.** — https://www.smashre.com
--**Smashre CRM - Business management platform focused on organizing customer and operational workflows in one place.** — https://www.crm.smashre.com
--**Nexora Solutions brings together AI, automation, software development, data, digital growth and technology consulting under one focused approach..** — //https://nexora.smashre.com/ 
-  
+## Featured AI & WordPress Plugin Development
+
+- **[Smashre AI — WordPress AI Agents & SaaS Product Ecosystem](https://ai.smashre.com/)** — Central product hub for AI-powered WordPress plugins, website assistants, business automation and upcoming SaaS solutions. This is a multi-product initiative, not a single-plugin website.
+- **Nexora AI — WordPress AI Agent (Existing development project)** — AI assistant for answering website visitors' questions using business-specific knowledge; WordPress plugin integration, agent configuration, SaaS backend, API connectivity, security and deployment workflows. Plugin release/testing work has taken place. Paddle checkout, licensing and subscription provisioning require further production verification.
+- **AI Real Estate by Smashre (Architecture / development planning)** — NEXORA AI real-estate transaction platform concept for Pakistan, UAE and USA, with planned WordPress integration, property workflows, transaction management and secure SaaS services. Initial repository structure exists; not launched.
+- **AI Sales Agent by Smashre (MVP planning)** — AI sales and lead-handling platform targeting businesses across industries. Android and web first, with a planned API/backend, business knowledge, inquiry handling, lead qualification and follow-up workflows; not launched.
+
+## Websites & Other Digital Products
+
+- **[Global Metals Intelligence](https://globalmetalsintelligence.com/)** — Precious-metals intelligence and portfolio tools.
+- **[Smashre](https://www.smashre.com/)** — Digital business platform.
+- **[Smashre CRM](https://crm.smashre.com/)** — Customer and business management platform.
+- **[Nexora Solutions](https://nexora.smashre.com/)** — AI, automation, software and technology consulting.
+- **[Six Sigma Consult](https://sixsigmaconsult.com/)** — Business website project.
+- **[LOGIX Project Management](https://logixengineeringconsultants.com/)** — Engineering and project-management website.
 - Additional architecture/consultancy websites and ongoing website-maintenance projects.
+
+**Product transparency:** Existing plugin work and planned projects are listed separately. Features and product names not independently verified on the live site are not represented as launched products.
 
 ---
 
