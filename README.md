@@ -71,31 +71,6 @@ Production-grade precious-metals intelligence platform covering gold/silver mark
 
 ---
 
-# Professional Experience
-
-## Network Administrator / System Engineer / WordPress Developer
-**Naqvi & Siddiquie Associates — Karachi | 2008–Present**
-- Install, configure and support Windows desktop environments, software and hardware.
-- Manage LAN/WAN, wireless networking, ADSL/VDSL, remote support and connectivity.
-- Support Windows Server, DHCP, DNS, IIS, FTP, ISA Server and Active Directory.
-- Troubleshoot printers, scanners, plotters, print servers, email and backups.
-- Design and maintain WordPress sites using Divi/Elementor, including content, SEO and performance maintenance.
-- Prepare estimates, tenders, pre-qualification documents, BOQs and professional presentations.
-
-## System Engineer
-**MicroAge Systems Ltd. — Karachi | 2007–2008**
-- Installed/configured hardware, Windows/Linux systems and business software.
-- Diagnosed hardware, network and system-performance issues.
-- Supported LAN/WAN, internet connectivity, printers/plotters and server/client setups for **50+ organizations**.
-
-## Transmission Officer / IT Support
-**TV2Day (Pvt.) Ltd. — Karachi | 2004–2007**
-- Managed satellite transmission workflows using VPN and remote administration.
-- Managed FTP transfer of large video/broadcast files and live audio/video web conferences.
-- Maintained LAN/WAN environments and supported video editing, file servers and rapid website publishing.
-
----
-
 # Selected Web & Digital Work
 
 ## Featured AI & WordPress Plugin Development
@@ -132,6 +107,31 @@ The product page currently labels **Nexora AI Agent as Live** and the other prod
 - Additional architecture/consultancy websites and ongoing website-maintenance projects.
 
 **Product transparency:** Existing plugin work and planned projects are listed separately. Features and product names not independently verified on the live site are not represented as launched products.
+
+---
+
+# Professional Experience
+
+## Network Administrator / System Engineer / WordPress Developer
+**Naqvi & Siddiquie Associates — Karachi | 2008–Present**
+- Install, configure and support Windows desktop environments, software and hardware.
+- Manage LAN/WAN, wireless networking, ADSL/VDSL, remote support and connectivity.
+- Support Windows Server, DHCP, DNS, IIS, FTP, ISA Server and Active Directory.
+- Troubleshoot printers, scanners, plotters, print servers, email and backups.
+- Design and maintain WordPress sites using Divi/Elementor, including content, SEO and performance maintenance.
+- Prepare estimates, tenders, pre-qualification documents, BOQs and professional presentations.
+
+## System Engineer
+**MicroAge Systems Ltd. — Karachi | 2007–2008**
+- Installed/configured hardware, Windows/Linux systems and business software.
+- Diagnosed hardware, network and system-performance issues.
+- Supported LAN/WAN, internet connectivity, printers/plotters and server/client setups for **50+ organizations**.
+
+## Transmission Officer / IT Support
+**TV2Day (Pvt.) Ltd. — Karachi | 2004–2007**
+- Managed satellite transmission workflows using VPN and remote administration.
+- Managed FTP transfer of large video/broadcast files and live audio/video web conferences.
+- Maintained LAN/WAN environments and supported video editing, file servers and rapid website publishing.
 
 ---
 
