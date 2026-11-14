@@ -110,6 +110,49 @@ The product page currently labels **Nexora AI Agent as Live** and the other prod
 
 ---
 
+---
+
+# Smashre AI — WordPress AI Agents & SaaS Product Roadmap (2026)
+
+**Product hub:** https://ai.smashre.com/  
+**Company:** https://www.smashre.com/  
+
+Smashre AI is planned as a multi-product ecosystem, not a website dedicated to one plugin. Product maturity is clearly distinguished below.
+
+## Nexora AI — WordPress AI Agent (Existing project; production readiness under review)
+
+- WordPress AI assistant for answering company and website questions using business-specific information.
+- Plugin releases and test-site deployments have been part of the implementation workflow.
+- WordPress plugin + connected SaaS architecture, with configuration and business knowledge workflows.
+- Paddle subscription checkout, webhook attribution, licensing, website limits and entitlement provisioning have been reviewed; billing and production-readiness issues must be resolved before claiming a fully operational paid release.
+- Security, database access, API integration and release verification are ongoing workstreams.
+
+**Project site:** https://ai.smashre.com/
+
+## AI Real Estate by Smashre (Planning / architecture)
+
+NEXORA AI real-estate transaction platform concept for **Pakistan, UAE and USA**. Project repository and initial folder structure exist. Planned scope includes AI-assisted property workflows, real-estate transactions, web application, WordPress integration and secure regional data architecture. **Not launched.** Source repository is private and intentionally not linked here.
+
+## AI Sales Agent by Smashre (MVP planned)
+
+Cross-industry AI sales assistant concept. Decisions: **Android and Web first; all-business target market; MVP-first delivery.** Proposed scope includes lead qualification, business knowledge, customer inquiries, follow-up workflows, API/backend services and secure multi-tenant data handling. Architecture planning includes web/mobile/API apps, shared packages, Supabase migrations, documentation, testing and CI. **Not launched.** Repository publication is not verified.
+
+## Product principles
+
+- Separate navigation and product pages for each plugin or SaaS offering under the Smashre AI hub.
+- Clearly identify existing work, testing, architecture and future roadmap items.
+- Security-by-design, tenant isolation, least-privilege database access and reliable entitlement provisioning.
+- Do not claim unverified features, production readiness, customer numbers or paid subscriptions.
+
+## Related projects
+
+- **Smashre:** https://www.smashre.com/
+- **Smashre CRM:** https://crm.smashre.com/
+- **Nexora Solutions:** https://nexora.smashre.com/
+- **Portfolio:** https://github.com/mirservices447-hub/Muhammad-Imran-Portfolio
+
+---
+
 # Professional Experience
 
 ## Network Administrator / System Engineer / WordPress Developer
@@ -167,42 +210,3 @@ Urdu — Native/Bilingual · English — Professional Working · Russian — Ele
 > This repository contains the source for my professional portfolio website and documents my technical and digital-product work.
 
 ---
-
-# Smashre AI — WordPress AI Agents & SaaS Product Roadmap (2026)
-
-**Product hub:** https://ai.smashre.com/  
-**Company:** https://www.smashre.com/  
-
-Smashre AI is planned as a multi-product ecosystem, not a website dedicated to one plugin. Product maturity is clearly distinguished below.
-
-## Nexora AI — WordPress AI Agent (Existing project; production readiness under review)
-
-- WordPress AI assistant for answering company and website questions using business-specific information.
-- Plugin releases and test-site deployments have been part of the implementation workflow.
-- WordPress plugin + connected SaaS architecture, with configuration and business knowledge workflows.
-- Paddle subscription checkout, webhook attribution, licensing, website limits and entitlement provisioning have been reviewed; billing and production-readiness issues must be resolved before claiming a fully operational paid release.
-- Security, database access, API integration and release verification are ongoing workstreams.
-
-**Project site:** https://ai.smashre.com/
-
-## AI Real Estate by Smashre (Planning / architecture)
-
-NEXORA AI real-estate transaction platform concept for **Pakistan, UAE and USA**. Project repository and initial folder structure exist. Planned scope includes AI-assisted property workflows, real-estate transactions, web application, WordPress integration and secure regional data architecture. **Not launched.** Source repository is private and intentionally not linked here.
-
-## AI Sales Agent by Smashre (MVP planned)
-
-Cross-industry AI sales assistant concept. Decisions: **Android and Web first; all-business target market; MVP-first delivery.** Proposed scope includes lead qualification, business knowledge, customer inquiries, follow-up workflows, API/backend services and secure multi-tenant data handling. Architecture planning includes web/mobile/API apps, shared packages, Supabase migrations, documentation, testing and CI. **Not launched.** Repository publication is not verified.
-
-## Product principles
-
-- Separate navigation and product pages for each plugin or SaaS offering under the Smashre AI hub.
-- Clearly identify existing work, testing, architecture and future roadmap items.
-- Security-by-design, tenant isolation, least-privilege database access and reliable entitlement provisioning.
-- Do not claim unverified features, production readiness, customer numbers or paid subscriptions.
-
-## Related projects
-
-- **Smashre:** https://www.smashre.com/
-- **Smashre CRM:** https://crm.smashre.com/
-- **Nexora Solutions:** https://nexora.smashre.com/
-- **Portfolio:** https://github.com/mirservices447-hub/Muhammad-Imran-Portfolio
